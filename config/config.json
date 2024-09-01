@@ -1,0 +1,7 @@
+{
+  "programs": [
+    "whoami"
+  ],
+  "timeout": 30,
+  "cacheTime": 300
+}
